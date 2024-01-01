@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+selenium
+pandas
+pytesseract
+Pillow
